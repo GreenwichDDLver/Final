@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 55ecd233c3ee51147a62a7b0eeca857a
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      43: 4300000
+    second: mainA300
+  - first:
+      43: 4300002
+    second: innerwalla300
+  - first:
+      43: 4300004
+    second: shedroof300
+  - first:
+      43: 4300006
+    second: stairs300
+  - first:
+      43: 4300008
+    second: porch300
+  - first:
+      43: 4300010
+    second: floors300
+  - first:
+      43: 4300012
+    second: mainA200
+  - first:
+      43: 4300014
+    second: innerwalla200
+  - first:
+      43: 4300016
+    second: shedroof200
+  - first:
+      43: 4300018
+    second: porch200
+  - first:
+      43: 4300020
+    second: floors200
+  - first:
+      43: 4300022
+    second: mainA140
+  - first:
+      43: 4300024
+    second: shedroof140
+  - first:
+      43: 4300026
+    second: porch140
+  - first:
+      43: 4300028
+    second: floors140
+  - first:
+      43: 4300030
+    second: mainA120
+  - first:
+      43: 4300032
+    second: shedroof120
+  - first:
+      43: 4300034
+    second: porch120
+  - first:
+      43: 4300036
+    second: floors120
+  - first:
+      43: 4300038
+    second: mainA100
+  - first:
+      43: 4300040
+    second: shedsides100
+  - first:
+      43: 4300042
+    second: Box100
+  - first:
+      43: 4300044
+    second: roof100
+  - first:
+      43: 4300046
+    second: porch100
+  - first:
+      43: 4300048
+    second: shedroof100
+  - first:
+      43: 4300050
+    second: shedsides60
+  - first:
+      43: 4300052
+    second: roof60
+  - first:
+      43: 4300054
+    second: box60
+  - first:
+      43: 4300056
+    second: shedroof60
+  - first:
+      43: 4300058
+    second: box0
+  - first:
+      43: 4300060
+    second: roof0
+  - first:
+      43: 4300062
+    second: concrete
+  - first:
+      43: 4300064
+    second: concrete0
+  - first:
+      43: 4300066
+    second: concrete1
+  - first:
+      43: 4300068
+    second: wood2
+  - first:
+      43: 4300070
+    second: wood
+  - first:
+      43: 4300072
+    second: concrete3
+  - first:
+      43: 4300074
+    second: U3DMesh
+  - first:
+      1001: 100100000
+    second: DataTemplate __Singleton__
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 1
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
