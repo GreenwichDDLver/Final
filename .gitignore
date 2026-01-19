@@ -104,3 +104,10 @@ $RECYCLE.BIN/
 _ReSharper*/
 *.[Rr]e[Ss]harper
 *.DotSettings.user
+
+# Large texture files (over 50MB)
+Assets/@PaulosCreations/RunesAndPortals/Demo/ArenaFloorNorm_4096.tga
+Assets/@PaulosCreations/RunesAndPortals/Demo/ArenaFloorT_4096.tga
+Assets/@PaulosCreations/RunesAndPortals/Props/TexturesMaterials/Props_Normal_GL.png
+Assets/@PaulosCreations/RunesAndPortals/RuneStone/TexturesMaterials/RunePortal_MetallicSmoothness.tga
+Assets/@PaulosCreations/RunesAndPortals/PortalRound/TexturesMaterials/PortalRound_Normal.png

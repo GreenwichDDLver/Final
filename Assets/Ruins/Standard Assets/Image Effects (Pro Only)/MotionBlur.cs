@@ -1,3 +1,4 @@
+#pragma warning disable CS0618 // 禁用过时API警告
 using UnityEngine;
 
 // This class implements simple ghosting type Motion Blur.
